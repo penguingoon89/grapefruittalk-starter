@@ -1,3 +1,4 @@
 # grapefruittalk-starter
-## command
+
+If you want to compile
     sass scss:css
